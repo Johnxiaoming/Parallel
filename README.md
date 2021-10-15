@@ -1,2 +1,2 @@
 # Parallel-Computing
-High-performance computing on Linux server（centOS）
+High-performance computing on Linux server（CentOS）
